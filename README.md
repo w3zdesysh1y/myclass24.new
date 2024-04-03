@@ -1,0 +1,1 @@
+# myclass24.new
